@@ -52,37 +52,8 @@ Funktion	Lösung
 📤 QR-Code Download	QRCoder-Bibliothek zum Erzeugen von PDF-/Download-Links
 🎨 Corporate Design	Farbcode & Fonts gemäß Styleguide der Akademie
 
-🧱 3. Beispielhafte Projektstruktur
-pgsql
-Kopieren
-Bearbeiten
-/RoboterPraesentation
-├── Controllers
-│   ├── HomeController.cs
-│   ├── CourseController.cs
-│   ├── MediaController.cs
-│   └── ContactController.cs
-├── Models
-│   ├── Course.cs
-│   ├── MediaItem.cs
-│   └── ContactForm.cs
-├── Views
-│   ├── Home
-│   │   └── Index.cshtml
-│   ├── Course
-│   │   ├── Index.cshtml
-│   │   └── Details.cshtml
-│   ├── Media
-│   │   └── Index.cshtml
-│   └── Contact
-│       └── Index.cshtml
-├── wwwroot
-│   ├── css
-│   ├── js
-│   └── media (Videos/Bilder/PDFs)
-├── appsettings.json
-└── Startup.cs / Program.cs
-🛠️ 4. Technologien & Tools
+
+🛠️ 3. Technologien & Tools
 ASP.NET Core 8 MVC
 
 Razor Pages
